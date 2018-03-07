@@ -1,0 +1,1 @@
+Add-Computer -DomainName "xxx" -Restart
